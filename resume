@@ -1,0 +1,65 @@
+      <!DOCTYPE html>
+<html>
+ <head>
+<body bgcolor="lightblue">
+center 
+<h1 align="center">chandana</h1>
+<hr>
+<center>
+
+<h4>email:chandanaps25089@gmail.com</h4>
+</center>
+<hr>
+<hr>
+<div>
+<p><font color="black">education:</font></p>
+<p><pre>school:a,b,c,2015
+high school:v,v,s,2017
+b.tech in pu,2017-2021<pre></p>
+</div>
+<div>
+<p><font color="black">skills:</font></p>
+<p><pre>software skills:c,c++,java
+Languages known:english,kannada</pre></p>
+</div>
+<dd>
+</html>
+<html>
+<head>
+<title><marks list</title>
+</head>
+</body>
+<table border="2"cellpadding="6" cellpadding="6">
+<tr>
+<th>Standard</th>
+<th>Marks</th>
+</tr>
+<tr>
+<td>10th</td>
+<td>80%</td>
+</tr>
+<tr>
+<td>12th</td>
+<td>79%</td>
+</tr>
+<tr>
+<td>b.tech</td>
+<td>6.07</td>
+</tr>
+</html>
+
+<html>
+<head>
+<title>
+</title>
+
+<body>
+<a href="https://presidencyuniversity.in/">my university</a><br>
+<a href="">my education</a><br/>
+<a href="file:///home/6cse3/table.html">my time table</a><br/>
+<a href="chandanaps25089@gmail.com">send mail</a>
+<img src="/home/6CSE3/Desktop/images.jpeg">
+</body>
+</html>
+
+

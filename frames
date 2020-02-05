@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>HTML Frames</title>
+</head>
+<frameset rows="10%,80%,10%">
+<frame name="top"src="resume"/>
+<frame name="main"src="resume"/>
+<frame name="bottom"src="resume"/>
+
+<noframes>
+<body>Your browser does not support frames.</body>
+</noframes>
+
+</frameset>
+</html>
